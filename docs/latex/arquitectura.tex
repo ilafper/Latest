@@ -1,0 +1,58 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
+
+\title{Arquitectura de una Aplicación React Native}
+\author{Autor: Roberto Castro}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introducción}
+React Native es un framework para desarrollar aplicaciones móviles multiplataforma utilizando JavaScript y React. Permite crear apps nativas para iOS y Android con una sola base de código.
+
+\section{Estructura de Carpetas}
+La arquitectura típica de una app React Native se organiza en carpetas como se muestra a continuación:
+
+\begin{verbatim}
+my-app/
+|
++-- src/
+|   +-- components/
+|   +-- screens/
+|   +-- navigation/
+|   +-- services/
+|   +-- assets/
+|   +-- App.js
++-- package.json
++-- ...
+\end{verbatim}
+
+% Nota: si necesitas mostrar caracteres Unicode en el documento, compila con XeLaTeX o LuaLaTeX
+% (por ejemplo: xelatex arquitectura.tex) y elimina la línea \usepackage[utf8]{inputenc} si usas XeLaTeX.
+
+\section{Componentes Principales}
+\begin{itemize}
+    \item \textbf{components}: Componentes reutilizables de la interfaz.
+    \item \textbf{screens}: Pantallas principales de la app.
+    \item \textbf{navigation}: Configuración de la navegación (React Navigation).
+    \item \textbf{services}: Lógica de negocio, llamadas a APIs, etc.
+    \item \textbf{assets}: Imágenes, fuentes y otros recursos estáticos.
+\end{itemize}
+
+\section{Diagrama de Arquitectura}
+\begin{center}
+\end{center}
+\textit{Figura 1: Diagrama de arquitectura de la app React Native.}
+
+\section{Descripción de la Arquitectura}
+La aplicación se basa en una arquitectura modular, donde cada pantalla utiliza componentes reutilizables. La navegación se gestiona mediante React Navigation, permitiendo transiciones entre pantallas. Los servicios se encargan de la comunicación con APIs externas y la gestión de datos.
+
+\section{Conclusión}
+Esta arquitectura facilita el mantenimiento, la escalabilidad y la reutilización de código en aplicaciones móviles desarrolladas con React Native.
+
+\end{document}
