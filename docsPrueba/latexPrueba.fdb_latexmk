@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1759773005.6939 "c:/Users/ialfper/Desktop/Afundamento/Latest/docsPrueba/latexPrueba.tex" "latexPrueba.pdf" "latexPrueba" 1759773006.46956 0
+["pdflatex"] 1759773973.22925 "c:/Users/ialfper/Desktop/Afundamento/Latest/docsPrueba/latexPrueba.tex" "latexPrueba.pdf" "latexPrueba" 1759773974.09885 0
   "C:/Users/ialfper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1758905806 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/ialfper/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1759510659 25420 7e160bae3252c0bf1846facd81a009c6 ""
   "C:/Users/ialfper/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1759510555 40136 a5fcaa70dd14e36c370fc2fa5d75d0b8 ""
@@ -71,13 +71,13 @@
   "C:/Users/ialfper/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/ialfper/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1751104012 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "C:/Users/ialfper/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/ialfper/Desktop/Afundamento/Latest/docsPrueba/latexPrueba.tex" 1759773005 3519 b2829309cf46a4832070e93f5c53ada8 ""
+  "c:/Users/ialfper/Desktop/Afundamento/Latest/docsPrueba/latexPrueba.tex" 1759773972 3511 36607d6f89fe425451929fcfcf9aa48d ""
   "instalador mike.png" 1759771089 6433 fc424508da4157cca59f1c6cfa0fe28d ""
   "latex.png" 1759768480 8434 51fd2733d7ae8cf02aa6859fe19b4ac6 ""
-  "latexPrueba.aux" 1759773006 883 0d6347aa19646c2f8ab2d3dca1aace43 "pdflatex"
-  "latexPrueba.out" 1759773006 981 e97a4251b8a1bc94afd0af5599be849c "pdflatex"
-  "latexPrueba.tex" 1759773005 3519 b2829309cf46a4832070e93f5c53ada8 ""
-  "latexPrueba.toc" 1759773006 475 875ff28bbaa51f4e5f74aebd6e46d84e "pdflatex"
+  "latexPrueba.aux" 1759773973 883 0d6347aa19646c2f8ab2d3dca1aace43 "pdflatex"
+  "latexPrueba.out" 1759773973 981 e97a4251b8a1bc94afd0af5599be849c "pdflatex"
+  "latexPrueba.tex" 1759773972 3511 36607d6f89fe425451929fcfcf9aa48d ""
+  "latexPrueba.toc" 1759773973 475 875ff28bbaa51f4e5f74aebd6e46d84e "pdflatex"
   "mike.png" 1759770706 52650 9ce1e5e7e3d3be3c2d9d83f5e99a6636 ""
   "straw.png" 1759772156 303169 630cacd7006f63be1ddbb15a39401786 ""
   (generated)
