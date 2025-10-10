@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.26)  10 OCT 2025 18:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.26)  10 OCT 2025 19:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/ialfper/Desktop/Afundamento/Latest/docsPrueba/latexPrueba.tex
-(c:/Users/ialfper/Desktop/Afundamento/Latest/docsPrueba/latexPrueba.tex
+**c:/Users/ialfper/Desktop/Afundamento/Latest/latexCrudMovil/latex.tex
+(c:/Users/ialfper/Desktop/Afundamento/Latest/latexCrudMovil/latex.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
 (C:\Users\ialfper\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -188,32 +188,37 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip51
+) (C:\Users\ialfper\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip52
+\thanksmargin=\skip53
+\droptitle=\skip54
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 13.
+Package hyperref Info: Option `colorlinks' set `true' on input line 14.
  (C:\Users\ialfper\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count306
-) (latexPrueba.aux)
-\openout1 = `latexPrueba.aux'.
+) (latex.aux)
+\openout1 = `latex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
  (C:\Users\ialfper\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count307
@@ -241,15 +246,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
-* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* h-part:(L,W,R)=(42.67912pt, 528.93675pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=472.03123pt
-* \textheight=652.70622pt
-* \oddsidemargin=-1.1381pt
-* \evensidemargin=-1.1381pt
-* \topmargin=-38.1381pt
+* \textwidth=528.93675pt
+* \textheight=709.61174pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-66.59087pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -275,77 +280,58 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
  (C:\Users\ialfper\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 20.
- (latexPrueba.out) (latexPrueba.out)
+Package hyperref Info: Link coloring ON on input line 28.
+ (latex.out) (latex.out)
 \@outlinefile=\write3
-\openout3 = `latexPrueba.out'.
+\openout3 = `latex.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 23.
+(Font)              <12> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 23.
+(Font)              <8> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
-<latex.png, id=27, 225.84375pt x 225.84375pt>
-File: latex.png Graphic file (type png)
-<use latex.png>
-Package pdftex.def Info: latex.png  used on input line 27.
-(pdftex.def)             Requested size: 330.42041pt x 330.46313pt.
+(Font)              <6> on input line 30.
+<img1.jpg, id=19, 376.40625pt x 418.06187pt>
+File: img1.jpg Graphic file (type jpg)
+<use img1.jpg>
+Package pdftex.def Info: img1.jpg  used on input line 35.
+(pdftex.def)             Requested size: 370.2541pt x 411.26071pt.
 
 
 [1
 
-{C:/Users/ialfper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./latex.png>] (latexPrueba.toc)
+{C:/Users/ialfper/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img1.jpg>] (latex.toc)
 \tf@toc=\write4
-\openout4 = `latexPrueba.toc'.
+\openout4 = `latex.toc'.
 
 
 
-[2]
-<mike.png, id=51, 1005.7575pt x 514.17094pt>
-File: mike.png Graphic file (type png)
-<use mike.png>
-Package pdftex.def Info: mike.png  used on input line 52.
-(pdftex.def)             Requested size: 472.03084pt x 241.31517pt.
-<instalador mike.png, id=53, 531.48563pt x 69.25874pt>
-File: instalador mike.png Graphic file (type png)
-<use instalador mike.png>
-Package pdftex.def Info: instalador mike.png  used on input line 62.
-(pdftex.def)             Requested size: 472.03943pt x 61.51219pt.
-<straw.png, id=55, 804.00375pt x 439.6425pt>
-File: straw.png Graphic file (type png)
-<use straw.png>
-Package pdftex.def Info: straw.png  used on input line 78.
-(pdftex.def)             Requested size: 330.42041pt x 180.67722pt.
+[2
 
+]
 
-[3 <./mike.png> <./instalador mike.png>]
-Overfull \hbox (18.85393pt too wide) in paragraph at lines 93--94
-[]\T1/cmr/m/n/10 Crea una car-peta en tu PC donde guardarás to-dos tus archivos `.tex`, por ejem-plo: \T1/cmtt/m/n/10 C:\MisDocumentosLaTeX\T1/cmr/m/n/10 . 
- []
+[3
 
-
-
-[4 <./straw.png>] (latexPrueba.aux)
+] (latex.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
-Package rerunfilecheck Info: File `latexPrueba.out' has not changed.
-(rerunfilecheck)             Checksum: 8FB73B52D6DDC53999D2BD95EBD56AE5;976.
+Package rerunfilecheck Info: File `latex.out' has not changed.
+(rerunfilecheck)             Checksum: 96997A3F49EC93B02DEB903194125184;466.
  ) 
 Here is how much of TeX's memory you used:
- 10892 strings out of 468130
- 166352 string characters out of 5429665
- 580092 words of memory out of 5000000
- 39379 multiletter control sequences out of 15000+600000
- 634823 words of font info for 57 fonts, out of 8000000 for 9000
+ 10651 strings out of 468130
+ 164683 string characters out of 5429665
+ 574905 words of memory out of 5000000
+ 39157 multiletter control sequences out of 15000+600000
+ 634175 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,309b,990s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\ialfper\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1000.pk> <C:\Users\ialfper\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\ialfper\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\ialfper\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\ialfper\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\ialfper\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\ialfper\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
-Output written on latexPrueba.pdf (4 pages, 446631 bytes).
+ 75i,6n,79p,349b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\ialfper\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\ialfper\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\ialfper\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\ialfper\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\ialfper\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on latex.pdf (3 pages, 137940 bytes).
 PDF statistics:
- 320 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 69 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 194 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
