@@ -1,4 +1,5 @@
 \contentsline {section}{\numberline {1}Descripcion de la app}{3}{section.1}%
-\contentsline {section}{\numberline {2}Metodología}{3}{section.2}%
-\contentsline {section}{\numberline {3}Resultados}{3}{section.3}%
-\contentsline {section}{\numberline {4}Conclusiones}{3}{section.4}%
+\contentsline {section}{\numberline {2}Requisitos}{3}{section.2}%
+\contentsline {section}{\numberline {3}Requisistos no funcionales}{3}{section.3}%
+\contentsline {section}{\numberline {4}Casos de usos}{4}{section.4}%
+\contentsline {section}{\numberline {5}Historias de usuarios}{4}{section.5}%
